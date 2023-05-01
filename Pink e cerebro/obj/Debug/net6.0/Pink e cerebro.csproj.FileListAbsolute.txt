@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\bin\Debug\net6.0\Pink e cerebro.exe
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\bin\Debug\net6.0\Pink e cerebro.deps.json
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\bin\Debug\net6.0\Pink e cerebro.runtimeconfig.json
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\bin\Debug\net6.0\Pink e cerebro.dll
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\bin\Debug\net6.0\Pink e cerebro.pdb
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\Pink e cerebro.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\Pink e cerebro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\Pink e cerebro.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\Pink e cerebro.AssemblyInfo.cs
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\Pink e cerebro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\Pink e cerebro.dll
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\refint\Pink e cerebro.dll
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\Pink e cerebro.pdb
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\Pink e cerebro.genruntimeconfig.cache
+C:\Users\gabri\Documents\.net Dio\Exercicios Dio\Pink e cerebro\obj\Debug\net6.0\ref\Pink e cerebro.dll
